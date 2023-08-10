@@ -1,19 +1,9 @@
-# Next.js Storyblok Boilerplate
 
-This repository is a Next.js [Storyblok](https://www.storyblok.com) starter template used in following [5 minute tutorial](https://www.storyblok.com/tp/add-a-headless-cms-to-next-js-in-5-minutes).
-
-## Requirements
-
-To use this project you have to have a Storyblok account. If you don't have one yet you can register at [Storyblok](https://www.storyblok.com), it's free.
-
-## How to get started?
-
-Read the [Next.js tutorial](https://www.storyblok.com/tp/add-a-headless-cms-to-next-js-in-5-minutes) about connecting Storyblok and Next.js
 
 ### 1. Clone the repo
 
 ```sh
-  $ git clone https://github.com/storyblok/react-next-boilerplate.git
+  $ https://github.com/tfobadar/next13-storyblok-boilerplate.git
 ```
 
 ### 2. Install all dependecies 
